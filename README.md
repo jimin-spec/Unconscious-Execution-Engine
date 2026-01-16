@@ -17,3 +17,5 @@ EXECUTION
 
 RECOVERY  
 → IDLE
+
+The system does not optimize for motivation. It optimizes for inevitability.
